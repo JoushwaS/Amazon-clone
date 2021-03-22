@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone-By-JoushwaS/static/css/main.db2c5887.chunk.css",
+    "main.js": "/Amazon-clone-By-JoushwaS/static/js/main.517275f3.chunk.js",
+    "main.js.map": "/Amazon-clone-By-JoushwaS/static/js/main.517275f3.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone-By-JoushwaS/static/js/runtime-main.3ccee3bb.js",
+    "runtime-main.js.map": "/Amazon-clone-By-JoushwaS/static/js/runtime-main.3ccee3bb.js.map",
+    "static/css/2.65a8c18f.chunk.css": "/Amazon-clone-By-JoushwaS/static/css/2.65a8c18f.chunk.css",
+    "static/js/2.f21485dc.chunk.js": "/Amazon-clone-By-JoushwaS/static/js/2.f21485dc.chunk.js",
+    "static/js/2.f21485dc.chunk.js.map": "/Amazon-clone-By-JoushwaS/static/js/2.f21485dc.chunk.js.map",
+    "index.html": "/Amazon-clone-By-JoushwaS/index.html",
+    "precache-manifest.4e64575eac978a4f70d9457a4864e513.js": "/Amazon-clone-By-JoushwaS/precache-manifest.4e64575eac978a4f70d9457a4864e513.js",
+    "service-worker.js": "/Amazon-clone-By-JoushwaS/service-worker.js",
+    "static/css/2.65a8c18f.chunk.css.map": "/Amazon-clone-By-JoushwaS/static/css/2.65a8c18f.chunk.css.map",
+    "static/css/main.db2c5887.chunk.css.map": "/Amazon-clone-By-JoushwaS/static/css/main.db2c5887.chunk.css.map",
+    "static/js/2.f21485dc.chunk.js.LICENSE.txt": "/Amazon-clone-By-JoushwaS/static/js/2.f21485dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ccee3bb.js",
+    "static/css/2.65a8c18f.chunk.css",
+    "static/js/2.f21485dc.chunk.js",
+    "static/css/main.db2c5887.chunk.css",
+    "static/js/main.517275f3.chunk.js"
+  ]
+}
